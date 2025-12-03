@@ -50,7 +50,7 @@ Build a RESTful API for a simple task manager application using either Flask or 
 
 ## Submission:
 
-* Share your codebase via a version control system (e.g., GitHub).
+* Share your codebase via a version control system (e.g., GitHub) repo link over email.
 * Include a README.md file with instructions on how to set up and run the application.
 * Provide any additional notes or explanations you think are necessary.
 ## Evaluation Criteria:
